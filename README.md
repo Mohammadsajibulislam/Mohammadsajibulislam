@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohammad%20Sajibul%20Islam&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20(Learning)%20%7C%20Content%20Creator&descAlignY=58&descSize=16&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohammad%20Sajibul%20Islam&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20Content%20Creator&descAlignY=58&descSize=16&animation=fadeIn)
 
 </div>
 
