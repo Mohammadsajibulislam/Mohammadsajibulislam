@@ -10,21 +10,12 @@
 
 Hi there! I'm **Mohammad Sajibul Islam**, **Full Stack Developer (MERN Stack)** from Bangladesh 🇧🇩. I love building web applications and sharing my coding journey with others.
 
-- 🎓 Currently enrolled in **Programming Hero Batch 13**
-- 📚 Learning **React.js**, **JavaScript**, and modern web technologies
-- 🎥 Running a Bengali coding channel **[Code By Sajib](https://youtube.com/@codebysajib)** on YouTube & Facebook
-- 👨‍🏫 Also a primary school teacher who believes in lifelong learning
-- 🌱 Currently exploring **React Hooks**, **Tailwind CSS v4**, and **Next.js**
+💻 Full Stack Developer (MERN Stack)
+🚀 Passionate about building scalable & modern web apps
+🎯 Clean Code | Performance | Problem Solving
+📚 Always learning & improving every single day
 
-
----
-
-## 🚀 What I'm Up To
-
-- 🔨 Building a **React-based Digital Tools Buying Website**
-- 📖 Studying **JavaScript ES6+** concepts (closures, HOF, async/await)
-- 🎬 Creating short educational coding videos (Shorts/Reels) for Bengali learners
-- 🌐 Working on improving my English for remote work opportunities
+✨ *I don't just write code — I build experiences.*
 
 ---
 
