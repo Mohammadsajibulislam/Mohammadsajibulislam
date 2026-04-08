@@ -8,12 +8,12 @@
 
 ## 👋 About Me
 
-Hi there! I'm **Mohammad Sajibul Islam**, **Full Stack Developer (MERN Stack)** from Bangladesh 🇧🇩. I love building web applications and sharing my coding journey with others.
+Hi there! I'm **Mohammad Sajibul Islam**, **Full Stack Developer (MERN Stack)** from Bangladesh. I love building web applications and sharing my coding journey with others.
 
-💻 Full Stack Developer (MERN Stack)
-🚀 Passionate about building scalable & modern web apps
-🎯 Clean Code | Performance | Problem Solving
-📚 Always learning & improving every single day
+--💻 Full Stack Developer (MERN Stack)
+--🚀 Passionate about building scalable & modern web apps
+--🎯 Clean Code | Performance | Problem Solving
+--📚 Always learning & improving every single day
 
 ✨ *I don't just write code — I build experiences.*
 
