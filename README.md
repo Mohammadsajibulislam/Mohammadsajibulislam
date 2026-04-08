@@ -42,9 +42,9 @@ Hi there! I'm **Mohammad Sajibul Islam**, **Full Stack Developer (MERN Stack)** 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajib1915&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammadsajibulislam&theme=tokyonight" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=sajib1915&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Mohammadsajibulislam&theme=tokyonight" />
 </p>
 
 ---
@@ -52,7 +52,7 @@ Hi there! I'm **Mohammad Sajibul Islam**, **Full Stack Developer (MERN Stack)** 
 # 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sajib1915&theme=tokyonight&row=1&column=6&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohammadsajibulislam&theme=tokyonight&row=1&column=6&no-bg=true&no-frame=true" />
 </p>
 
 ---
