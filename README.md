@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohammad%20Sajibul%20Islam&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20(MERN)&descAlignY=58&descSize=16&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohammad%20Sajibul%20Islam&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=MERRN%20Stack%20Developer%20&descAlignY=58&descSize=16&animation=fadeIn)
 
 </div>
 
@@ -8,9 +8,9 @@
 
 ## 👋 About Me
 
-Hi there! I'm **Mohammad Sajibul Islam**, **Full Stack Developer (MERN Stack)** from Bangladesh. I love building web applications and sharing my coding journey with others.
+Hi there! I'm **Mohammad Sajibul Islam**, **MERN Stack Developer** from Bangladesh. I love building web applications and sharing my coding journey with others.
 
-<p>💻 Full Stack Developer (MERN Stack)</p>
+<p>💻 MERN Stack Developer</p>
 <p>🚀 Passionate about building scalable & modern web apps</p>
 <p>🎯 Clean Code | Performance | Problem Solving</p>
 <p>📚 Always learning & improving every single day</p>
@@ -59,7 +59,7 @@ Hi there! I'm **Mohammad Sajibul Islam**, **Full Stack Developer (MERN Stack)** 
 
 # 🚀 Current Focus
 
-* 🔥 Mastering Full Stack Development (MERN)
+* 🔥 Mastering MERN Stack Development
 * ⚡ Building real-world projects
 * 🧠 Improving problem-solving skills
 * 🌍 Preparing for remote opportunities
