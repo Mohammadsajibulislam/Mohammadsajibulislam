@@ -139,13 +139,9 @@ A full-stack application designed to help job seekers discover opportunities, ev
 ## 📈 Contribution Activity
 
 <div align="center">
-  <a href="https://github.com/Mohammadsajibulislam">
-    <img
-      src="https://ghchart.rshah.org/38bdf8/Mohammadsajibulislam"
-      alt="Mohammad Sajibul Islam's GitHub Contribution Graph"
-      width="100%"
-    />
-  </a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammadsajibulislam&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph"/>
+
 </div>
 
 ---
@@ -153,12 +149,11 @@ A full-stack application designed to help job seekers discover opportunities, ev
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Mohammadsajibulislam&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
-    width="100%"
-    alt="GitHub Profile Trophies"
-  />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mohammadsajibulislam&theme=tokyonight&row=1&column=6&margin-w=10&no-frame=true&no-bg=true" alt="GitHub trophies"/>
+
 </div>
+
 ---
 
 ## 🎯 Current Focus
