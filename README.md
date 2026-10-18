@@ -1,152 +1,189 @@
-<div align="center">
+ <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohammad%20Sajibul%20Islam&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer&descAlignY=60&descSize=18&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:163A5F,100:2563EB&height=240&section=header&text=Mohammad%20Sajibul%20Islam&fontSize=40&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%7C%20MERN%20%7C%20Next.js&descSize=16&descAlignY=57&animation=fadeIn)
+
+<a href="https://mohammadsajibulislam.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/mohammadsajibulislam">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:mohammadsajibulislam2024@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Mohammadsajibulislam&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-<h2 align="center">MERN Stack Developer</h2>
+---
 
-<p align="center">
-  I build fast, responsive and production-ready web applications with <b>React</b>, <b>Node.js</b>, <b>Express</b> & <b>MongoDB</b>.
-  <br />
-  <br />
-  <a href="https://mohammadsajibulislam.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:mohammadsajibulislam2024@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mohammadsajibulislam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+## About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-green?style=flat-square" alt="Open to work"/>
-  <img src="https://img.shields.io/badge/Location-Chittagong%2C%20Bangladesh-2c5364?style=flat-square" alt="Location"/>
-</p>
+I'm **Mohammad Sajibul Islam**, a developer from **Chattogram, Bangladesh**, with one year of hands-on project experience building web applications.
+
+I specialize in creating responsive user interfaces, developing RESTful APIs, integrating authentication systems, and building full-stack applications with modern JavaScript technologies. I'm particularly interested in AI-powered products and solving practical problems through software.
+
+- **Development:** React, Next.js, TypeScript, Node.js, and Express.js.
+- **Data & APIs:** MongoDB, REST APIs, validation, and database integration.
+- **Authentication:** Better Auth, JWT, and Google OAuth.
+- **AI Integration:** Building application features with LLM APIs.
+- **Current goal:** Growing as a developer through real-world projects and collaborative software development.
+
+## Featured Projects
+
+### 01 — CareerPilot AI
+
+**AI-Powered Job Search & Career Management Platform**
+
+A full-stack application designed to help job seekers organize applications, evaluate job compatibility, and prepare for interviews.
+
+- AI job matching with match scores and skill-gap analysis.
+- Resume parsing and AI-assisted cover letter generation.
+- Kanban-based application tracking and analytics dashboard.
+- AI interview coach with persistent conversation history.
+- Authentication and data-backed application workflows.
+
+**Technologies**
+
+`Next.js` `React` `TypeScript` `Node.js` `Express.js` `MongoDB` `OpenRouter` `Better Auth` `Zod` `Vitest`
+
+<div align="left">
+  <a href="https://careerpilot-ai-client.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Mohammadsajibulislam/careerpilot-ai-client">
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</div>
 
 ---
 
-## 🙋 About me
+### 02 — Fable
 
-I'm a MERN stack developer based in **Chittagong, Bangladesh**, focused on building clean, maintainable full-stack applications from database to deployment. I care about good user experience, readable code, and shipping things that actually work for real users.
+**Full-Stack E-book Marketplace**
 
-- 🌱 Currently leveling up in **Next.js**
-- 🧠 Solving problems daily on **LeetCode**
-- 💬 Ask me about **React, Node.js, Express, MongoDB, Tailwind CSS**
-- 📫 Reach me at **mohammadsajibulislam2024@gmail.com**
-- 🔭 Open to **remote MERN / Frontend developer roles**
+A book platform where readers can discover and purchase e-books, writers can manage their publications, and administrators can oversee platform activity.
 
----
+- E-book discovery and reader-focused features.
+- Writer verification and book management workflows.
+- Stripe payment integration.
+- Role-specific dashboards and administrative analytics.
+- Responsive interfaces with interactive UI components.
 
-## 🚀 Featured Projects
+**Technologies**
 
-### 1. 💼 [CareerPilot AI](https://careerpilot-ai-client.vercel.app/)
+`Next.js` `React` `JavaScript` `Tailwind CSS` `Express.js` `MongoDB` `Stripe` `Better Auth` `Recharts`
 
-An AI-powered job tracking platform for managing applications, saving opportunities and monitoring the entire application pipeline.
-
-- Centralized dashboard to track every application from applied to offer
-- Save and organize job opportunities in one place
-- AI-assisted features that speed up the application workflow
-- Type-safe codebase built on Next.js 16, React 19 and TypeScript
-
-**Stack:** Next.js 16 · React 19 · TypeScript · Tailwind CSS · TanStack React Query · Better Auth
-
-`AI` `TypeScript` `React 19` `TanStack Query`
-
-[🔗 Live Demo](https://careerpilot-ai-client.vercel.app/) · [💻 Source Code](https://github.com/Mohammadsajibulislam/careerpilot-ai-client)
-
----
-
-### 2. 📚 [Fable – Ebook Sharing Platform](https://mohammadsajibulislam.vercel.app/)
-
-A full-stack book marketplace where readers discover, search, purchase and bookmark books, while writers publish and manage their own work.
-
-- Three distinct roles — readers, writers and admins — each with a dedicated dashboard
-- Stripe-powered payments for purchasing books
-- Admin analytics covering users, transactions and platform performance
-- Polished, animated UI built with HeroUI and Framer Motion
-
-**Stack:** Next.js · React · Tailwind CSS · Node.js · Express · MongoDB · Stripe · Better Auth · JWT
-
-`Marketplace` `Stripe` `Role-Based Access` `Full-Stack`
-
-[🔗 Live Demo](https://mohammadsajibulislam.vercel.app/) · [💻 Source Code](https://github.com/Mohammadsajibulislam/fable-client)
+<div align="left">
+  <a href="https://fable-client-theta.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Mohammadsajibulislam/fable-client">
+    <img src="https://img.shields.io/badge/Frontend%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Frontend Repository"/>
+  </a>
+  <a href="https://github.com/Mohammadsajibulislam/fable-server">
+    <img src="https://img.shields.io/badge/Backend%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend Repository"/>
+  </a>
+</div>
 
 ---
 
-### 3. 🐾 [PawNest – Pet Adoption Platform](https://github.com/Mohammadsajibulislam/pet-adoption-client)
+### 03 — PawNest
 
-A full-stack pet adoption platform where users discover pets, submit adoption requests and manage the complete adoption process securely.
+**Pet Adoption & Management Platform**
 
-- Browse and search adoptable pets with a responsive, modern UI
-- End-to-end adoption workflow from request to approval
-- Secure authentication and authorization with Better Auth and JWT
-- REST API built with Node.js, Express and MongoDB
+A web application that streamlines pet discovery and adoption requests through user-friendly interfaces and structured management workflows.
 
-**Stack:** Next.js · React · Node.js · Express · MongoDB · Better Auth · Tailwind CSS v4 · HeroUI
+- Browse and filter available pets.
+- Submit adoption requests and track request status.
+- Create, update, and manage pet listings.
+- Owner-side approval and rejection workflows.
+- Protected application features and responsive layouts.
 
-`Adoption` `REST API` `Auth` `Full-Stack`
+**Technologies**
 
-[💻 Source Code](https://github.com/Mohammadsajibulislam/pet-adoption-client)
+`Next.js` `React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `JWT` `Google OAuth`
 
----
-
-## 💻 Tech Stack
-
-**Frontend**
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" />
-</p>
-
-**Backend**
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-**Database**
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
-</p>
-
-**Tools**
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
-</p>
+<div align="left">
+  <a href="https://github.com/Mohammadsajibulislam/pet-adoption-client">
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## Technical Skills
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mohammadsajibulislam&theme=tokyonight&hide_border=true"/>
-</p>
+<table>
+  <tr>
+    <td width="160"><strong>Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs" alt="Frontend skills"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend skills"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Database</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,firebase" alt="Database skills"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,vercel,netlify" alt="Development tools"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammadsajibulislam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadsajibulislam&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+**Additional technologies:** Better Auth, JWT, Google OAuth, Zod, Vitest, OpenRouter, REST APIs, and TanStack React Query.
 
 ---
 
-## 📬 Let's connect
-
-<p align="center">
-<a href="https://github.com/Mohammadsajibulislam">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/mohammadsajibulislam">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:mohammadsajibulislam2024@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://mohammadsajibulislam.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Mohammadsajibulislam&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
-</p>
+## GitHub Analytics
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammadsajibulislam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadsajibulislam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<br/><br/>
+
+<img width="95%" src="https://streak-stats.demolab.com/?user=Mohammadsajibulislam&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## Let's Connect
+
+I'm open to junior developer opportunities, internships, and collaborations on meaningful web development projects.
+
+<div align="center">
+
+<a href="https://github.com/Mohammadsajibulislam">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/mohammadsajibulislam">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:mohammadsajibulislam2024@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+**Building practical solutions. Learning continuously. Improving with every project.**
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:163A5F,100:0B1220&height=120&section=footer)
 
 </div>
