@@ -149,9 +149,11 @@ A full-stack application designed to help job seekers discover opportunities, ev
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mohammadsajibulislam&theme=tokyonight&row=1&column=6&margin-w=10&no-frame=true&no-bg=true" alt="GitHub trophies"/>
-
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Mohammadsajibulislam&theme=tokyonight&row=1&column=6&margin-w=10&no-frame=true&no-bg=true"
+    alt="GitHub Profile Trophies"
+    width="100%"
+  />
 </div>
 
 ---
