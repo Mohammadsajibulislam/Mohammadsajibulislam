@@ -139,11 +139,13 @@ A full-stack application designed to help job seekers discover opportunities, ev
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammadsajibulislam&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Activity"
-  />
+  <a href="https://github.com/Mohammadsajibulislam">
+    <img
+      src="https://ghchart.rshah.org/38bdf8/Mohammadsajibulislam"
+      alt="Mohammad Sajibul Islam's GitHub Contribution Graph"
+      width="100%"
+    />
+  </a>
 </div>
 
 ---
