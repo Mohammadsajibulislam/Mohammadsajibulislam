@@ -99,17 +99,6 @@ I enjoy building modern, responsive, and scalable web applications using **Mongo
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohammadsajibulislam&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mohammadsajibulislam&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -118,15 +107,6 @@ I enjoy building modern, responsive, and scalable web applications using **Mongo
 
 </p>
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammadsajibulislam&theme=tokyo-night"/>
-
-</p>
 
 ---
 
@@ -138,15 +118,6 @@ I enjoy building modern, responsive, and scalable web applications using **Mongo
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mohammadsajibulislam&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
-
-</p>
 
 ---
 
