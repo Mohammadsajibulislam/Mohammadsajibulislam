@@ -139,9 +139,11 @@ A full-stack application designed to help job seekers discover opportunities, ev
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammadsajibulislam&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammadsajibulislam&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Activity"
+  />
 </div>
 
 ---
@@ -150,12 +152,11 @@ A full-stack application designed to help job seekers discover opportunities, ev
 
 <div align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Mohammadsajibulislam&theme=tokyonight&row=1&column=6&margin-w=10&no-frame=true&no-bg=true"
-    alt="GitHub Profile Trophies"
+    src="https://github-profile-trophy.vercel.app/?username=Mohammadsajibulislam&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
     width="100%"
+    alt="GitHub Profile Trophies"
   />
 </div>
-
 ---
 
 ## 🎯 Current Focus
