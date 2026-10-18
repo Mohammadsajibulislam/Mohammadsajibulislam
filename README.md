@@ -61,15 +61,53 @@ I'm a **MERN Stack Developer** from **Chittagong, Bangladesh**, focused on build
 ## 🚀 Featured Projects
 
 <div align="center">
+<table align="center">
+<tr>
+<td width="33%" valign="top">
 
 <!-- ✏️ REPLACE the links below with your real repositories -->
+[![careerpilot-ai-client](https://github-readme-stats.vercel.app/api/pin/?username=Mohammadsajibulislam&repo=careerpilot-ai-client&theme=tokyonight&hide_border=true)](https://github.com/Mohammadsajibulislam/careerpilot-ai-client)
 
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Mohammadsajibulislam&repo=REPO_NAME_1&theme=tokyonight&hide_border=true)](https://github.com/Mohammadsajibulislam/REPO_NAME_1)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Mohammadsajibulislam&repo=REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/Mohammadsajibulislam/REPO_NAME_2)
+</td>
+<td width="33%" valign="top">
 
 </div>
+[![pet-adoption-client](https://github-readme-stats.vercel.app/api/pin/?username=Mohammadsajibulislam&repo=pet-adoption-client&theme=tokyonight&hide_border=true)](https://github.com/Mohammadsajibulislam/pet-adoption-client)
 
 > 💡 **To add your projects:** replace `REPO_NAME_1` and `REPO_NAME_2` with your repository names (repeat the block for more projects).
+</td>
+<td width="33%" valign="top">
+
+[![hireloop-client](https://github-readme-stats.vercel.app/api/pin/?username=Mohammadsajibulislam&repo=hireloop-client&theme=tokyonight&hide_border=true)](https://github.com/Mohammadsajibulislam/hireloop-client)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+[![fable-client](https://github-readme-stats.vercel.app/api/pin/?username=Mohammadsajibulislam&repo=fable-client&theme=tokyonight&hide_border=true)](https://github.com/Mohammadsajibulislam/fable-client)
+
+</td>
+<td width="33%" valign="top">
+
+[![skillsphere](https://github-readme-stats.vercel.app/api/pin/?username=Mohammadsajibulislam&repo=skillsphere&theme=tokyonight&hide_border=true)](https://github.com/Mohammadsajibulislam/skillsphere)
+
+</td>
+<td width="33%" valign="top">
+
+[![wanderlust](https://github-readme-stats.vercel.app/api/pin/?username=Mohammadsajibulislam&repo=wanderlust&theme=tokyonight&hide_border=true)](https://github.com/Mohammadsajibulislam/wanderlust)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![More Projects](https://img.shields.io/badge/View%20All%20Projects-41%20repositories-0f2027?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammadsajibulislam?tab=repositories)
+
+</div>
 
 ---
 
