@@ -18,7 +18,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-green?style=flat-square" alt="Open to work"/>
   <img src="https://img.shields.io/badge/Location-Chittagong%2C%20Bangladesh-2c5364?style=flat-square" alt="Location"/>
-  <img src="https://img.shields.io/badge/Remote-Available-blue?style=flat-square" alt="Remote"/>
 </p>
 
 ---
