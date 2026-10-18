@@ -1,192 +1,188 @@
-<div align="center">
+ <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohammad%20Sajibul%20Islam&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer&descAlignY=60&descSize=18&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohammad%20Sajibul%20Islam&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=60&descSize=17&animation=fadeIn)
 
-</div>
+# Hi, I'm Mohammad Sajibul Islam 👋
 
-<h1 align="center">Hi 👋, I'm Mohammad Sajibul Islam</h1>
+### MERN Stack Developer | Next.js & TypeScript | AI-Powered Applications
 
-<h3 align="center">💻 MERN Stack Developer | Frontend Enthusiast | Problem Solver</h3>
-
-<p align="center">
-Passionate about building responsive, scalable, and user-friendly web applications using modern technologies.
-</p>
-
----
-
-# 👨‍💻 About Me
-
-I'm **Mohammad Sajibul Islam**, a passionate **MERN Stack Developer** from **Chittagong, Bangladesh**.
-
-I enjoy building modern, responsive, and scalable web applications using **MongoDB, Express.js, React.js, and Node.js**. I love solving real-world problems through clean, maintainable code and continuously learning new technologies to become a better developer every day.
-
-✨ **I don't just write code — I build digital experiences.**
-
----
-
-# 📫 Contact Information
-
-📍 **Location:** Chittagong, Bangladesh
-
-📧 **Email:** mohammadsajibulislam2024@gmail.com
-
-📱 **Phone:** +880 1623-259809
-
-🌐 **Portfolio:** https://mohammadsajibulislam.vercel.app/
-
----
-
-# 🔭 Current Activities
-
-- 🌱 Exploring **Next.js**
-- 💻 Building full-stack MERN applications
-- 🧠 Solving LeetCode problems regularly
-- 🚀 Learning advanced backend architecture
-- 📚 Improving problem-solving skills
-- 🌍 Preparing for Frontend & MERN Stack Developer opportunities
-
----
-
-# 💻 Tech Stack
-
-## 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" />
-</p>
-
-## ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-## 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
-</p>
-
-## 🛠 Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
-</p>
-
----
-
-# 🌐 Connect With Me
+Building modern, responsive, and user-focused web applications with clean code and practical solutions.
 
 <p align="center">
-
-<a href="https://github.com/Mohammadsajibulislam">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/mohammadsajibulislam">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mohammadsajibulislam2024@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://mohammadsajibulislam.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
+  <a href="https://mohammadsajibulislam.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/mohammadsajibulislam">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mohammadsajibulislam2024@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohammadsajibulislam&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mohammadsajibulislam&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Mohammadsajibulislam&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammadsajibulislam&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 📋 GitHub Profile Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammadsajibulislam&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mohammadsajibulislam&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
-
-</p>
-
----
-
-# 🚀 Current Focus
-
-- 🔥 Mastering MERN Stack Development
-- ⚡ Building Production-Ready Applications
-- 💼 Developing Real-World Projects
-- 🧠 Improving Data Structures & Algorithms
-- 🌍 Preparing for Remote Software Engineering Opportunities
-
----
-
-# ✍️ Random Developer Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Mohammadsajibulislam&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
+## 👨‍💻 About Me
+
+I'm **Mohammad Sajibul Islam**, a MERN Stack Developer from **Chattogram, Bangladesh**, with 1 year of hands-on project experience.
+
+I enjoy building full-stack web applications, creating responsive user interfaces, developing REST APIs, and integrating AI capabilities into practical products.
+
+- 💻 Developing full-stack applications with React, Next.js, Node.js, and MongoDB.
+- 🤖 Building AI-powered features using LLM APIs.
+- 🔐 Implementing authentication, authorization, and secure application workflows.
+- 🧪 Learning software testing and maintainable development practices.
+- 🎯 Seeking junior developer, internship, and entry-level software development opportunities.
+
+> My focus is on building practical applications that solve real problems and deliver a better user experience.
+
+## 🚀 Featured Project
+
+### CareerPilot AI — AI-Powered Job Search Copilot
+
+A full-stack application designed to help job seekers discover opportunities, evaluate their skills, track applications, and prepare for interviews.
+
+**Key Features**
+- AI-powered job matching with match scores and skill-gap analysis.
+- Resume parsing and AI-generated cover letters.
+- Kanban-based job application tracking.
+- AI interview coaching with persistent chat history.
+- Authentication, analytics dashboard, and database-backed features.
+
+**Tech Stack:** Next.js, React, TypeScript, Node.js, Express.js, MongoDB, OpenRouter, Better Auth, Zod, and Vitest.
+
+<p>
+  <a href="https://careerpilot-ai-client.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Mohammadsajibulislam/careerpilot-ai-client">
+    <img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</p>
+
+## 💻 Tech Stack
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs" alt="Frontend technologies"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies"/>
+</p>
+
+### 🗄️ Database & Authentication
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" alt="Database technologies"/>
+  <img src="https://img.shields.io/badge/Better%20Auth-Authentication-333333?style=flat-square" alt="Better Auth"/>
+  <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+</p>
+
+### 🧰 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,vercel,netlify" alt="Development tools"/>
+  <img src="https://img.shields.io/badge/Zod-Validation-3E67B1?style=flat-square" alt="Zod"/>
+  <img src="https://img.shields.io/badge/Vitest-Testing-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
+  <img src="https://img.shields.io/badge/OpenRouter-AI%20Integration-6467F2?style=flat-square" alt="OpenRouter"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Mohammadsajibulislam">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/mohammadsajibulislam">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mohammadsajibulislam2024@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://mohammadsajibulislam.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohammadsajibulislam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-If you like my work, don't forget to ⭐ my repositories.
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mohammadsajibulislam&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 
 </div>
 
+---
+
+## 🔥 GitHub Streak
+
 <div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Mohammadsajibulislam&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammadsajibulislam&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mohammadsajibulislam&theme=tokyonight&row=1&column=6&margin-w=10&no-frame=true&no-bg=true" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Building production-oriented full-stack applications.
+- Improving TypeScript, Next.js, and backend development skills.
+- Developing practical AI-powered web features.
+- Strengthening problem-solving and software testing skills.
+- Preparing for junior software development opportunities.
+
+---
+
+## 💡 Developer Mindset
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote"/>
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mohammadsajibulislam&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
+
+### Thanks for visiting my profile! ⭐
+
+**Feel free to explore my repositories and connect with me.**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer)
 
